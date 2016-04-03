@@ -1,0 +1,256 @@
+<bookmarks>
+<group name="root">
+    <group name="Jazz">
+        <bookmark name="Smooth Jazz" url="http://smoothjazz.com/streams/smoothjazz_128.pls"/>
+        <bookmark name="SKY.fm Piano Jazz" url="http://listen.sky.fm/public1/pianojazz.pls"/>
+        <bookmark name="SKY.fm Smooth Jazz" url="http://listen.sky.fm/public1/smoothjazz.pls"/>
+        <bookmark name="Sonic Universe" url="http://somafm.com/sonicuniverse.pls"/>
+        <bookmark name="Blue FM" url="http://bluefm.net/listen.pls"/>
+        <bookmark name="The Breeze" url="mmsh://wms-rly.181.fm/181-breeze?MSWMExt=.asf"/>
+    </group>
+    <group name="Latin">
+        <bookmark name="Onda Tropical" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=506392"/>
+        <bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
+        <bookmark name="Salsa Stream" url="http://listen.sky.fm/public3/salsa.pls"/>
+        <bookmark name="Reggaeton 24/7" url="http://cc.net2streams.com/tunein.php/reggaeton/playlist.pls"/>
+        <bookmark name="Suave 107" url="http://grupomedrano.com.do/suave107/suave107.m3u"/>
+    </group>
+    <group name="Classic Rock">
+        <bookmark name="181.FM Classic Hits" url="http://sc-rly.181.fm:80/stream/1094"/>
+        <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
+        <bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>
+        <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
+    </group>
+    <group name="Classical">
+        <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"/>
+        <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
+        <bookmark name="WCPE" url="http://www.ibiblio.org/wcpe/wcpe.pls"/>
+        <bookmark name="CINEMIX" url="http://cinemix.us/cine.asx"/>
+        <bookmark name="SKY.fm Soundtracks" url="http://listen.sky.fm/public1/soundtracks.pls"/>
+        <bookmark name="SKY.fm Mostly Classical" url="http://listen.sky.fm/public1/classical.pls"/>
+    </group>
+    <group name="Pop / Rock">
+        <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128aac.m3u"/>
+        <bookmark name=".977 The Hitz Channel" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356"/>
+        <bookmark name="Enjoy Station" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285"/>
+        <bookmark name="SKY.fm Top Hits" url="http://listen.sky.fm/public1/tophits.pls"/>
+        <bookmark name="Indie Pop Rocks!" url="http://somafm.com/indiepop.pls"/>
+        <bookmark name="PopTron" url="http://somafm.com/poptron.pls"/>
+    </group>
+    <group name="Oldies">
+        <bookmark name="AM 1710" url="http://lin2.ash.fast-serv.com:9022/listen.pls"/>
+        <bookmark name="WNAR" url="http://live.wnar-am.com:8500/listen.pls"/>
+        <bookmark name="SKY.fm Oldies" url="http://listen.sky.fm/public1/oldies.pls"/>
+    </group>
+    <group name="Chill">
+        <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050"/>
+        <bookmark name="Lounge Radio" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934"/>
+        <bookmark name="Beat Blender" url="http://somafm.com/beatblender.pls"/>
+        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
+        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
+        <bookmark name="Illinois Street Lounge" url="http://somafm.com/illstreet.pls"/>
+    </group>
+    <group name="Country">
+        <bookmark name="SKY.fm Country" url="http://listen.sky.fm/public1/country.pls"/>
+        <bookmark name="Boot Liquor" url="http://somafm.com/bootliquor.pls"/>
+        <bookmark name="US 181" url="mmsh://wms-rly.181.fm/181-us181?MSWMExt=.asf"/>
+        <bookmark name="Real Country" url="mmsh://wms-rly.181.fm/181-realcountry?MSWMExt=.asf"/>
+        <bookmark name="Highway 181" url="mmsh://wms-rly.181.fm/181-highway?MSWMExt=.asf"/>
+        <bookmark name="Country 108" url="http://www.country108.com/listen.pls"/>
+    </group>
+    <group name="Techno / Electronic">
+        <bookmark name="Drone Zone" url="http://somafm.com/dronezone.pls"/>
+        <bookmark name="Space Station Soma" url="http://somafm.com/spacestation.pls"/>
+        <bookmark name="cliqhop idm" url="http://somafm.com/cliqhop.pls"/>
+        <bookmark name="Black Rock FM" url="http://somafm.com/brfm.pls"/>
+        <bookmark name="New Dance Radio" url="http://jbstream.net/tunein.php/blackoutworm/playlist.asx"/>
+    </group>
+    <group name="Community">
+        <bookmark name="Jupiter Broadcast" url="http://jblive.fm/"/>
+        <bookmark name="WCRS LPFM Columbus" url="http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls"/>
+        <bookmark name="WBEZ" url="http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls"/>
+    </group>
+</group>
+<group name="Ελληνικά">
+        <group name="Αθήνα">
+          <bookmark name="902 FM" url=""/>
+          <bookmark name="98 FM" url=""/>
+          <bookmark name="Alpha Radio" url=""/>
+          <bookmark name="Freedom" url=""/>
+          <bookmark name="Ant1" url=""/>
+          <bookmark name="Athens Deejay" url=""/>
+          <bookmark name="Athens FM" url=""/>
+          <bookmark name="Atlantis FM" url=""/>
+          <bookmark name="Best Radio" url=""/>
+          <bookmark name="Derti" url=""/>
+          <bookmark name="Flash" url=""/>
+          <bookmark name="Free Angel" url=""/>
+          <bookmark name="Galaxy 92" url=""/>
+          <bookmark name="Je t'aime" url=""/>
+          <bookmark name="John Greek" url=""/>
+          <bookmark name="Kiss FM" url=""/>
+          <bookmark name="Kosmos" url=""/>
+          <bookmark name="Love Radio" url=""/>
+          <bookmark name="Mad Radio" url=""/>
+          <bookmark name="Nitro Radio" url=""/>
+          <bookmark name="Nova Sport FM" url=""/>
+          <bookmark name="Oasis Fm" url=""/>
+          <bookmark name="Orange" url=""/>
+          <bookmark name="Palmos On Air" url=""/>
+          <bookmark name="Paradise Radio" url=""/>
+          <bookmark name="Radio Gold" url=""/> 
+          <bookmark name="Real FM" url=""/>
+          <bookmark name="Red FM" url=""/>
+          <bookmark name="Rock FM" url=""/>
+          <bookmark name="Sentra FM" url=""/>
+          <bookmark name="Sfera" url=""/>
+          <bookmark name="V FM" url=""/>
+          <bookmark name="Ακτίνα" url=""/>
+          <bookmark name="Δίεση" url=""/>
+          <bookmark name="Δίφωνο" url=""/>                    
+          <bookmark name="Δρόμος FM" url=""/>
+          <bookmark name="Εν Λευκώ" url=""/>
+          <bookmark name="Ε.ΡΑ. Δεύτερο" url=""/>
+          <bookmark name="Ε.ΡΑ. Σπορ" url=""/>
+          <bookmark name="Ε.ΡΑ. Τρίτο" url=""/>
+          <bookmark name="Κρητική Ραδιοφωνία" url=""/>
+          <bookmark name="Μελωδία" url=""/>
+          <bookmark name="ΝΕΤ" url=""/>
+          <bookmark name="Πειραϊκή Εκκλησία" url=""/>
+          <bookmark name="ΡΣ Εκκλησίας της Ελλάδος" url=""/>
+          <bookmark name="Ράδιο Blackman" url=""/>
+          <bookmark name="Ράδιο Άστυ" url=""/>
+          <bookmark name="Ρυθμός" url=""/>
+          <bookmark name="ΣΚΑΙ" url=""/>
+          <bookmark name="Στο Κόκκινο" url=""/>
+          <bookmark name="Φιλία" url=""/>
+          <bookmark name="Φλόγα" url=""/> 
+        </group>  
+        <group name="Διάφορα">
+          <bookmark name="Arion" url=""/>
+          <bookmark name="Style FM Αργολίδας" url=""/>
+          <bookmark name="Ράδιο Ξηρόμερο" url=""/>
+          <bookmark name="Δίαυλος Χαλκίδας" url=""/>
+          <bookmark name="Life FM Κέρκυρας" url=""/>
+          <bookmark name="Ant1 Αιγαίου" url=""/>
+          <bookmark name="Ε.ΡΑ. Αιγαίου" url=""/>
+          <bookmark name="Πάρος FM" url=""/>
+        </group>  
+        <group name="Ήπειρος">
+          <bookmark name="Orange" url=""/>
+          <bookmark name="Top 105" url=""/>
+          <bookmark name="Action Radio" url=""/>
+          <bookmark name="Best 90.7" url=""/>
+          <bookmark name="Ioannina DeeJay" url=""/>
+          <bookmark name="Safari FM" url=""/>
+          <bookmark name="Sky Radio" url=""/>
+          <bookmark name="Star FM" url=""/>
+          <bookmark name="Studio E" url=""/>
+          <bookmark name="Βήμα FM" url=""/>
+          <bookmark name="Ηχώ" url=""/>
+          <bookmark name="Ράδιο Ήπειρος" url=""/>
+          <bookmark name="Ράδιο Φάρος" url=""/>
+          <bookmark name="Ρωμαίος FM" url=""/>
+          <bookmark name="Ράδιο Πρέβεζα" url=""/>
+        </group>
+        <group name="Μακεδονία">
+          <bookmark name="Star FM Γρεβενών" url=""/>
+          <bookmark name="Ράδιο Γρεβενά" url=""/>
+          <bookmark name="NRG Radio" url=""/>
+          <bookmark name="Star FM Δράμας" url=""/>
+          <bookmark name="Energy FM" url=""/>
+          <bookmark name="Skyline 982" url=""/>
+          <bookmark name="Energy FM Καβάλας" url=""/>
+          <bookmark name="Στόχος FM" url=""/>
+          <bookmark name="Ράδιο Καστοριά" url=""/>
+          <bookmark name="Ράδιο Σύνορα" url=""/>
+          <bookmark name="Diva FM" url=""/>
+          <bookmark name="Siera FM" url=""/>
+          <bookmark name="Viva FM" url=""/>
+          <bookmark name="Πελλα FM" url=""/>
+          <bookmark name="Σκάι 92.6" url=""/>
+          <bookmark name="Radio 1" url=""/>
+          <bookmark name="Capital" url=""/>
+          <bookmark name="Max FM" url=""/>
+          <bookmark name="Eros Radio" url=""/>
+        </group>  
+        <group name="Θεσσαλονίκη">
+          <bookmark name="102 FM - ΕΡΤ3" url=""/>
+          <bookmark name="1055 Rock" url=""/>
+          <bookmark name="1055 Rock (2)" url=""/>
+          <bookmark name="9.58 - ΕΡΤ3" url=""/>
+          <bookmark name="Cool FM" url=""/>
+          <bookmark name="FM 100" url=""/>
+          <bookmark name="Heart FM" url="m"/>
+          <bookmark name="Imagine897" url=""/>
+          <bookmark name="Libero" url=""/>
+          <bookmark name="Off Radio" url="/"/>
+          <bookmark name="Republic" url=""/>
+          <bookmark name="RockRadio" url=""/>
+          <bookmark name="RSO" url="/"/>
+          <bookmark name="Safari FM" url=""/>
+          <bookmark name="Star FM" url=""/>
+          <bookmark name="Studio 3" url=""/>
+          <bookmark name="Zoo Radio" url=""/>
+          <bookmark name="Αθλητικό Metropolis" url=""/>
+          <bookmark name="Sunshine" url=""/>
+          <bookmark name="Ερωτικός FM" url=""/>
+          <bookmark name="Λυδία η Φιλιππησία" url=""/>
+          <bookmark name="Μελωδικός" url="/>
+          <bookmark name="Μουσικός Γαλαξίας" url=""/>
+          <bookmark name="Καλαμαριά FM" url=""/>
+          <bookmark name="Όλα FM" url="s"/>
+          <bookmark name="Πανόραμα 9,84" url=""/>
+          <bookmark name="Παλμός" url=""/>
+          <bookmark name="Παραδοσιακός Studio 3" url=""/>
+          <bookmark name="Πειρατικός" url=""/>
+          <bookmark name="Ράδιο Έκφραση" url=""/>
+          <bookmark name="Ράδιο Θεσσαλονίκη" url=""/>
+          <bookmark name="Ραδιοκύματα" url=""/>
+          <bookmark name="ΡΣ Helexpo ΔΕΘ" url=""/>
+          <bookmark name="Real FM" url=""/>
+        </group>
+        <group name="Κρήτη">
+          <bookmark name="Best Radio" url=""/>
+          <bookmark name="KISS FM Crete" url=""/>
+          <bookmark name="Ερωτόκριτος" url=""/>
+          <bookmark name="Κρητικός FM" url=""/>
+          <bookmark name="Ράδιο Κρήτη" url=""/>
+          <bookmark name="Club FM" url=""/>
+          <bookmark name="Δίαυλος Κρήτης" url=""/>
+          <bookmark name="Ραδιοκύματα" url=""/>
+          <bookmark name="Τάλος FM" url=""/>
+          <bookmark name="Magic FM" url=""/>
+          <bookmark name="Radio 99.6" url=""/>
+          <bookmark name="D-code" url=""/>
+          <bookmark name="Νότος FM" url=""/>
+        </group>
+        <group name="Πάτρα">
+          <bookmark name="Enjoy Radio" url=""/>
+          <bookmark name="Galaxy" url=""/>
+          <bookmark name="Mojo Radio" url=""/>
+          <bookmark name="Έντεχνος FM" url=""/>
+          <bookmark name="Sfera" url=""/>
+          <bookmark name="You FM" url=""/>
+          <bookmark name="Wave FM" url=""/>
+          <bookmark name="MFM" url=""/>
+          <bookmark name="Ιόνιον FM" url=""/>
+          <bookmark name="Master FM" url=""/>
+          <bookmark name="Χρώμα FM" url=""/>
+          <bookmark name="ΣΚΑΙ Πάτρας" url=""/>
+          <bookmark name="Ραδιο Πάτρα" url=""/>
+          <bookmark name="Ωμέγα" url=""/> 
+	  <bookmark name="uPatrasFM" url=""/>
+        </group> 
+        <group name="Online">
+	  <group name="Radio Art">
+            <bookmark name="Jazz / World" url=""/>
+            <bookmark name="Greek Art / Classical" url=""/> 
+            <bookmark name="Antistress" url=""/>
+	  </group>
+          <bookmark name="RadioActive" url=""/>
+          <bookmark name="eRock.gr" url=""/>
+        </group>  
+      </group>
+  </group>
+</bookmarks>
