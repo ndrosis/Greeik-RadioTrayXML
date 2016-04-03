@@ -82,6 +82,7 @@
           <bookmark name="Athens FM" url=""/>
           <bookmark name="Atlantis FM" url=""/>
           <bookmark name="Best Radio" url=""/>
+          <bookmark name="Lampsi" url="http://lampsi2-lh.akamaihd.net/i/live_1@324565/master.m3u8"/>
           <bookmark name="Derti" url=""/>
           <bookmark name="Flash" url=""/>
           <bookmark name="Free Angel" url=""/>
@@ -103,12 +104,12 @@
           <bookmark name="Red FM" url=""/>
           <bookmark name="Rock FM" url=""/>
           <bookmark name="Sentra FM" url=""/>
-          <bookmark name="Sfera" url=""/>
+          <bookmark name="Sfera" url="http://sfera.live24.gr/sfera4132"/>
           <bookmark name="V FM" url=""/>
           <bookmark name="Ακτίνα" url=""/>
           <bookmark name="Δίεση" url=""/>
           <bookmark name="Δίφωνο" url=""/>                    
-          <bookmark name="Δρόμος FM" url=""/>
+          <bookmark name="Δρόμος FM" url="http://dromos898.live24.gr/dromos898"/>
           <bookmark name="Εν Λευκώ" url=""/>
           <bookmark name="Ε.ΡΑ. Δεύτερο" url=""/>
           <bookmark name="Ε.ΡΑ. Σπορ" url=""/>
@@ -120,7 +121,7 @@
           <bookmark name="ΡΣ Εκκλησίας της Ελλάδος" url=""/>
           <bookmark name="Ράδιο Blackman" url=""/>
           <bookmark name="Ράδιο Άστυ" url=""/>
-          <bookmark name="Ρυθμός" url=""/>
+          <bookmark name="Ρυθμός" url="rythmos1-lh.akamaihd.net/i/live_1@334542/master.m3u8"/>
           <bookmark name="ΣΚΑΙ" url=""/>
           <bookmark name="Στο Κόκκινο" url=""/>
           <bookmark name="Φιλία" url=""/>
