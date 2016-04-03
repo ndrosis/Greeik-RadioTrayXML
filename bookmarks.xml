@@ -73,185 +73,148 @@
 </group>
 <group name="Ελληνικά">
         <group name="Αθήνα">
-          <bookmark name="902 FM" url=""/>
-          <bookmark name="98 FM" url=""/>
-          <bookmark name="Alpha Radio" url=""/>
-          <bookmark name="Freedom" url=""/>
-          <bookmark name="Ant1" url=""/>
-          <bookmark name="Athens Deejay" url=""/>
-          <bookmark name="Athens FM" url=""/>
-          <bookmark name="Atlantis FM" url=""/>
-          <bookmark name="Best Radio" url=""/>
-          <bookmark name="Lampsi" url="http://lampsi2-lh.akamaihd.net/i/live_1@324565/master.m3u8"/>
-          <bookmark name="Derti" url=""/>
-          <bookmark name="Flash" url=""/>
-          <bookmark name="Free Angel" url=""/>
-          <bookmark name="Galaxy 92" url=""/>
-          <bookmark name="Je t'aime" url=""/>
-          <bookmark name="John Greek" url=""/>
-          <bookmark name="Kiss FM" url=""/>
-          <bookmark name="Kosmos" url=""/>
-          <bookmark name="Love Radio" url=""/>
-          <bookmark name="Mad Radio" url=""/>
-          <bookmark name="Nitro Radio" url=""/>
-          <bookmark name="Nova Sport FM" url=""/>
-          <bookmark name="Oasis Fm" url=""/>
-          <bookmark name="Orange" url=""/>
-          <bookmark name="Palmos On Air" url=""/>
-          <bookmark name="Paradise Radio" url=""/>
-          <bookmark name="Radio Gold" url=""/> 
-          <bookmark name="Real FM" url=""/>
-          <bookmark name="Red FM" url=""/>
-          <bookmark name="Rock FM" url=""/>
-          <bookmark name="Sentra FM" url=""/>
-          <bookmark name="Sfera" url="http://sfera.live24.gr/sfera4132"/>
-          <bookmark name="V FM" url=""/>
-          <bookmark name="Ακτίνα" url=""/>
-          <bookmark name="Δίεση" url=""/>
-          <bookmark name="Δίφωνο" url=""/>                    
-          <bookmark name="Δρόμος FM" url="http://dromos898.live24.gr/dromos898"/>
-          <bookmark name="Εν Λευκώ" url=""/>
-          <bookmark name="Ε.ΡΑ. Δεύτερο" url=""/>
-          <bookmark name="Ε.ΡΑ. Σπορ" url=""/>
-          <bookmark name="Ε.ΡΑ. Τρίτο" url=""/>
-          <bookmark name="Κρητική Ραδιοφωνία" url=""/>
-          <bookmark name="Μελωδία" url=""/>
-          <bookmark name="ΝΕΤ" url=""/>
-          <bookmark name="Πειραϊκή Εκκλησία" url=""/>
-          <bookmark name="ΡΣ Εκκλησίας της Ελλάδος" url=""/>
-          <bookmark name="Ράδιο Blackman" url=""/>
-          <bookmark name="Ράδιο Άστυ" url=""/>
-          <bookmark name="Ρυθμός" url="rythmos1-lh.akamaihd.net/i/live_1@334542/master.m3u8"/>
-          <bookmark name="ΣΚΑΙ" url=""/>
-          <bookmark name="Στο Κόκκινο" url=""/>
-          <bookmark name="Φιλία" url=""/>
-          <bookmark name="Φλόγα" url=""/> 
-        </group>  
-        <group name="Διάφορα">
-          <bookmark name="Arion" url=""/>
-          <bookmark name="Style FM Αργολίδας" url=""/>
-          <bookmark name="Ράδιο Ξηρόμερο" url=""/>
-          <bookmark name="Δίαυλος Χαλκίδας" url=""/>
-          <bookmark name="Life FM Κέρκυρας" url=""/>
-          <bookmark name="Ant1 Αιγαίου" url=""/>
-          <bookmark name="Ε.ΡΑ. Αιγαίου" url=""/>
-          <bookmark name="Πάρος FM" url=""/>
-        </group>  
-        <group name="Ήπειρος">
-          <bookmark name="Orange" url=""/>
-          <bookmark name="Top 105" url=""/>
-          <bookmark name="Action Radio" url=""/>
-          <bookmark name="Best 90.7" url=""/>
-          <bookmark name="Ioannina DeeJay" url=""/>
-          <bookmark name="Safari FM" url=""/>
-          <bookmark name="Sky Radio" url=""/>
-          <bookmark name="Star FM" url=""/>
-          <bookmark name="Studio E" url=""/>
-          <bookmark name="Βήμα FM" url=""/>
-          <bookmark name="Ηχώ" url=""/>
-          <bookmark name="Ράδιο Ήπειρος" url=""/>
-          <bookmark name="Ράδιο Φάρος" url=""/>
-          <bookmark name="Ρωμαίος FM" url=""/>
-          <bookmark name="Ράδιο Πρέβεζα" url=""/>
-        </group>
-        <group name="Μακεδονία">
-          <bookmark name="Star FM Γρεβενών" url=""/>
-          <bookmark name="Ράδιο Γρεβενά" url=""/>
-          <bookmark name="NRG Radio" url=""/>
-          <bookmark name="Star FM Δράμας" url=""/>
-          <bookmark name="Energy FM" url=""/>
-          <bookmark name="Skyline 982" url=""/>
-          <bookmark name="Energy FM Καβάλας" url=""/>
-          <bookmark name="Στόχος FM" url=""/>
-          <bookmark name="Ράδιο Καστοριά" url=""/>
-          <bookmark name="Ράδιο Σύνορα" url=""/>
-          <bookmark name="Diva FM" url=""/>
-          <bookmark name="Siera FM" url=""/>
-          <bookmark name="Viva FM" url=""/>
-          <bookmark name="Πελλα FM" url=""/>
-          <bookmark name="Σκάι 92.6" url=""/>
-          <bookmark name="Radio 1" url=""/>
-          <bookmark name="Capital" url=""/>
-          <bookmark name="Max FM" url=""/>
-          <bookmark name="Eros Radio" url=""/>
+	  <bookmark name="88.6 UP Radio" url="http://netradio.live24.gr/886radio"/>
+          <bookmark name="A100FM 107.4" url="http://bestgreek.info:8104/listen.pls"/>
+          <bookmark name="Alpha Radio" url="http://194.219.46.2:8080/live"/>
+          <bookmark name="ART FM 90.6" url="http://85.25.106.137:8023/stream"/>
+          <bookmark name="Athens Deejay" url="http://94.23.0.114:41972/listen.pls?sid=1"/>
+          <bookmark name="ATHENS TOP FM 100.6" url="http://142.4.215.162:9964/listen.pls"/>
+          <bookmark name="Atlantis FM 105.2" url="http://144.76.84.8:8308/listen.pls"/>
+          <bookmark name="Best Radio 92.6" url="http://best.live24.gr/best1222"/>
+          <bookmark name="BHMA FM 99.5" url="http://vimafm.live24.gr/vimafm"/>
+          <bookmark name="Church of Greece 89.5" url="http://85.10.206.222:8002/;listen.pls"/>
+	  <bookmark name="Church of Piraeus 91.2" url="http://netradio.live24.gr/pe912fm"/>
+          <bookmark name="Derti 98.6" url="http://derti.live24.gr/derty1000"/>
+          <bookmark name="Dromos FM 89,8" url="http://dromos898.live24.gr/dromos898"/>
+          <bookmark name="Ertopen 106.7" url="http://radio.ertopen.com/erasport"/>
+          <bookmark name="Galaxy 92" url="http://galaxy.live24.gr/galaxy9292"/>
+          <bookmark name="Hit 88.9" url="http://hit889.live24.gr/hit889"/>
+          <bookmark name="JoinRadio " url="http://stream.radiojar.com/2uh8e4akb"/>
+          <bookmark name="Kiss FM 92.9" url="http://kissfm.live24.gr/kissfmathens"/>
+          <bookmark name="Kriti FM 87.5" url="http://s3.onweb.gr:8878/;"/>
         </group>  
         <group name="Θεσσαλονίκη">
-          <bookmark name="102 FM - ΕΡΤ3" url=""/>
-          <bookmark name="1055 Rock" url=""/>
-          <bookmark name="1055 Rock (2)" url=""/>
-          <bookmark name="9.58 - ΕΡΤ3" url=""/>
-          <bookmark name="Cool FM" url=""/>
-          <bookmark name="FM 100" url=""/>
-          <bookmark name="Heart FM" url="m"/>
-          <bookmark name="Imagine897" url=""/>
-          <bookmark name="Libero" url=""/>
-          <bookmark name="Off Radio" url="/"/>
-          <bookmark name="Republic" url=""/>
-          <bookmark name="RockRadio" url=""/>
-          <bookmark name="RSO" url="/"/>
-          <bookmark name="Safari FM" url=""/>
-          <bookmark name="Star FM" url=""/>
-          <bookmark name="Studio 3" url=""/>
-          <bookmark name="Zoo Radio" url=""/>
-          <bookmark name="Αθλητικό Metropolis" url=""/>
-          <bookmark name="Sunshine" url=""/>
-          <bookmark name="Ερωτικός FM" url=""/>
-          <bookmark name="Λυδία η Φιλιππησία" url=""/>
-          <bookmark name="Μελωδικός" url=""/>
-          <bookmark name="Μουσικός Γαλαξίας" url=""/>
-          <bookmark name="Καλαμαριά FM" url=""/>
-          <bookmark name="Όλα FM" url="s"/>
-          <bookmark name="Πανόραμα 9,84" url=""/>
-          <bookmark name="Παλμός" url=""/>
-          <bookmark name="Παραδοσιακός Studio 3" url=""/>
-          <bookmark name="Πειρατικός" url=""/>
-          <bookmark name="Ράδιο Έκφραση" url=""/>
-          <bookmark name="Ράδιο Θεσσαλονίκη" url=""/>
-          <bookmark name="Ραδιοκύματα" url=""/>
-          <bookmark name="ΡΣ Helexpo ΔΕΘ" url=""/>
-          <bookmark name="Real FM" url=""/>
-        </group>
-        <group name="Κρήτη">
-          <bookmark name="Best Radio" url=""/>
-          <bookmark name="KISS FM Crete" url=""/>
-          <bookmark name="Ερωτόκριτος" url=""/>
-          <bookmark name="Κρητικός FM" url=""/>
-          <bookmark name="Ράδιο Κρήτη" url=""/>
-          <bookmark name="Club FM" url=""/>
-          <bookmark name="Δίαυλος Κρήτης" url=""/>
-          <bookmark name="Ραδιοκύματα" url=""/>
-          <bookmark name="Τάλος FM" url=""/>
-          <bookmark name="Magic FM" url=""/>
-          <bookmark name="Radio 99.6" url=""/>
-          <bookmark name="D-code" url=""/>
-          <bookmark name="Νότος FM" url=""/>
-        </group>
-        <group name="Πάτρα">
-          <bookmark name="Enjoy Radio" url=""/>
-          <bookmark name="Galaxy" url=""/>
-          <bookmark name="Mojo Radio" url=""/>
-          <bookmark name="Έντεχνος FM" url=""/>
-          <bookmark name="Sfera" url=""/>
-          <bookmark name="You FM" url=""/>
-          <bookmark name="Wave FM" url=""/>
-          <bookmark name="MFM" url=""/>
-          <bookmark name="Ιόνιον FM" url=""/>
-          <bookmark name="Master FM" url=""/>
-          <bookmark name="Χρώμα FM" url=""/>
-          <bookmark name="ΣΚΑΙ Πάτρας" url=""/>
-          <bookmark name="Ραδιο Πάτρα" url=""/>
-          <bookmark name="Ωμέγα" url=""/> 
-	  <bookmark name="uPatrasFM" url=""/>
-        </group> 
-        <group name="Online">
-	  <group name="Radio Art">
-            <bookmark name="Jazz / World" url=""/>
-            <bookmark name="Greek Art / Classical" url=""/> 
-            <bookmark name="Antistress" url=""/>
-	  </group>
-          <bookmark name="RadioActive" url=""/>
-          <bookmark name="eRock.gr" url=""/>
+          
         </group>  
+        <group name="Πελοπόννησος">
+          
+        </group>
+        <group name="Μακεδονία">
+          
+        </group>  
+        <group name="Ήπειρος">
+          
+        </group>
+        <group name="Θράκη">
+          
+        </group>
+        <group name="Θεσσαλία">
+          
+        </group> 
+        <group name="Στερεά Ελλάδα">
+	  
+        </group>
+        
+        <group name="Νησιά Αιγαίου">
+        	<group name="Ικαρία">
+        	
+        	</group>
+        	<group name="Κάλυμνος">
+        	
+        	</group>
+        	<group name="Κάρπαθος">
+        	
+        	</group>
+        	<group name="Κίμωλος">
+        	
+        	</group>
+        	<group name="Κως">
+        	
+        	</group>
+        	<group name="Λέρος">
+        	
+        	</group>
+        	<group name="Λέσβος">
+        	
+        	</group>
+        	<group name="Λήμνος">
+        	
+        	</group>
+        	<group name="Μύκονος">
+        	
+        	</group>
+        	<group name="Νάξος">
+        	
+        	</group>
+        	<group name="Πάρος">
+        	
+        	</group>
+        	<group name="Πάτμος">
+        	
+        	</group>
+        	<group name="Ρόδος">
+        	
+        	</group>
+        	<group name="Σάμος">
+        	
+        	</group>
+        	<group name="Σαντορίνη">
+        	
+        	</group>
+        	<group name="Σίφνος">
+        	
+        	</group>
+        	<group name="Σκιάθος">
+        	
+        	</group>
+        	<group name="Σύμη">
+        	
+        	</group>
+        	<group name="Σύρος">
+        	
+        	</group>
+        	<group name="Χίος">
+        	
+        	</group>
+        	
+        </group>
+        <group name="Νησιά Ιονίου">
+        	<group name="Ζάκυνθος">
+        	
+        	</group>
+        	<group name="Κέρκυρα">
+        	
+        	</group>
+        	<group name="Κεφαλονιά">
+        	
+        	</group>
+        	<group name="Λευκάδα">
+	  
+                </group>
+      </group>
+      <group name="Κρήτη">
+      		<group name="Άγ. Νικόλαος">
+	  
+        	</group>
+        	<group name="Ηράκλειο">
+	  
+        	</group>
+        	<group name="Ιεράπετρα">
+	  
+        	</group>
+        	<group name="Ρέθυμνο">
+	  
+        	</group>
+        	<group name="Σητεία">
+	  
+        	</group>
+        	<group name="Χανιά">
+	  
+        	</group>
+	  
+      </group>
+      <group name="Web Radios">
+	  
       </group>
   </group>
 </bookmarks>
